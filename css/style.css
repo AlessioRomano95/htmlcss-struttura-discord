@@ -97,3 +97,43 @@ li{
   align-items: center;
   justify-content: center;
 }
+
+/*Interno conteiner 1-2-3 */
+/* 1 */
+.img1-1{
+  background-color: #404EED;
+  width: 750px;
+  height: 520px;
+}
+
+.img2-1{
+  background-color: #6771e4;
+  width: 500px;
+  height: 520px;
+}
+
+/* 2 */
+.img1-2{
+  background-color: #6771e4;
+  width: 500px;
+  height: 520px;
+}
+
+.img2-2{
+  background-color: #404EED;
+  width: 750px;
+  height: 520px;
+}
+
+/* 3 */
+.img1-3{
+  background-color: #404EED;
+  width: 750px;
+  height: 520px;
+}
+
+.img2-3{
+  background-color: #6771e4;
+  width: 500px;
+  height: 520px;
+}
