@@ -30,6 +30,7 @@ header{
   display: inline-flex;
   border: 1px solid  #1d2dda;
   padding: 15px;
+  width: 250px;
 }
 
 .nav{
@@ -44,6 +45,7 @@ header{
     display: inline-flex;
     border: 1px solid #1d2dda;
     padding: 15px;
+    width: 250px;
   }
 
 li{ 
@@ -54,8 +56,7 @@ li{
 /*jumbotron*/
 .jumbotron{
   height: 520px;
-  width: 100%;
-  display: inline-flex;
+  display: flex;
   justify-content: center;
   background-color: #4c59e2;
 }
@@ -71,4 +72,28 @@ li{
   height: 4px;
   background-color: #1d2dda;
   display: flex;
+}
+
+/*Container principali*/
+.container1{
+  background-color: rgb(233, 233, 233);
+  height: 624px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.container2{
+  background-color: rgb(197, 197, 197);
+  height: 624px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.container3{
+  background-color: rgb(233, 233, 233);
+  height: 624px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
