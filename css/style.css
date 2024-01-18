@@ -137,3 +137,21 @@ li{
   width: 500px;
   height: 520px;
 }
+
+/* Container Big */
+.container-big{
+  background-color: rgb(197, 197, 197);
+  height: 1040px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.img-big{
+  background-color: #404EED ;
+  height: 935px;
+  width: 1250px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
