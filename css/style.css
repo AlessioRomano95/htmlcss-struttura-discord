@@ -46,6 +46,7 @@ header{
     border: 1px solid #1d2dda;
     padding: 15px;
     width: 250px;
+    justify-content: flex-end;
   }
 
 li{ 
@@ -158,10 +159,9 @@ li{
 
 
 /*footer*/
-
 /* menu */
 .container-menu{
-  background-color: rgb(100, 100, 100);
+  background-color: rgb(58, 58, 58);
   height: 655px;
   display: flex;
   align-items: center;
@@ -196,3 +196,48 @@ li{
   align-items: center;
   justify-content: center;
 }
+/* separate */
+.separate-2{
+  height: 2px;
+  background-color: #3745d6;
+  display: flex;
+}
+
+/*footerx2*/
+.footer{
+  background-color: rgb(58, 58, 58);
+  height: 114px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+}
+
+/*footer bottom*/
+.bottom{
+  background-color: rgb(83, 118, 233);
+  height: 80px;
+  width: 1250px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+}
+
+/*bottoni*/
+.logo-2{
+  background-color: #404EED ;
+  border: 1px solid  #434fd3;
+  color: white;
+  padding: 7px;
+
+}
+
+.botton-2{
+  background-color: #404EED ;
+  border: 1px solid  #434fd3;
+  color: white;
+  padding: 7px;
+
+}
+
+
